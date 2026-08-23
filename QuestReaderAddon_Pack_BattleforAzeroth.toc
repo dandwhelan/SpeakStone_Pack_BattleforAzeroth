@@ -1,0 +1,10 @@
+## Interface: 110207, 120000, 120001, 120100
+## X-Interface: 110207, 120000, 120001, 120100
+## Title: SpeakStone Narration - Battle for Azeroth Voices
+## Notes: Battle for Azeroth quest audio for SpeakStone Narration. Requires QuestReaderAddon.
+## Author: clhammer weirdautomation@gmail.com, Paratus
+
+## OptionalDeps: QuestReaderAddon
+
+SoundLengths.lua
+Register.lua
