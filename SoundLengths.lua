@@ -1172,6 +1172,7 @@ QuestReaderSoundLengths_Pack_BattleforAzeroth = {
     ["47491_progress.ogg"] = 4.06,
     ["47493_completion.ogg"] = 1.44,
     ["47493_description.ogg"] = 65.45,
+    ["47495_description.ogg"] = 27.32,
     ["47497_completion.ogg"] = 3.66,
     ["47497_description.ogg"] = 24.92,
     ["47497_progress.ogg"] = 2.14,
