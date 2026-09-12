@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_BattleforAzeroth = {
+SpeakStoneSoundLengths_Pack_BattleforAzeroth = {
     ["10588_completion.ogg"] = 18.83,
     ["10588_description.ogg"] = 36.07,
     ["10588_progress.ogg"] = 0.53,
