@@ -3413,7 +3413,6 @@ SpeakStoneSoundLengths_Pack_BattleforAzeroth = {
     ["50679_progress.ogg"] = 2.56,
     ["50690_completion.ogg"] = 7.84,
     ["50690_description.ogg"] = 9.84,
-    ["50690_progress.ogg"] = 1.36,
     ["50691_completion.ogg"] = 1.76,
     ["50691_description.ogg"] = 13.84,
     ["50691_progress.ogg"] = 2.40,
