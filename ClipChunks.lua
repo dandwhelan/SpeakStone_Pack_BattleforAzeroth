@@ -2103,6 +2103,7 @@ local C = {
 ["54438_description"]="1389,2396",
 ["54439_description"]="1224,2374",
 ["54441_description"]="1298",
+["54447_description"]="1118",
 ["54459_description"]="1317",
 ["54485_completion"]="1433",
 ["54485_description"]="1338",
